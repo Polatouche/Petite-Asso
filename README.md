@@ -1,2 +1,6 @@
 # Petite-Asso
-Gestion d'association
+
+## Gestion d'association.
+
+### Définition du projet
+À faire...
